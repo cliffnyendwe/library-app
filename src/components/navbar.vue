@@ -19,7 +19,7 @@
                     <v-avatar size="150" class="mx-5">
                         <img src="avatar-1.png">
                     </v-avatar>
-                    <p class="white--text subheading mx-5">Lorna Kimani</p>
+                    <p class="white--text subheading mx-5">User</p>
                    <popup @bookadded="snackbar=true">
                    </popup>
                 </v-flex>
